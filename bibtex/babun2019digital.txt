@@ -1,0 +1,7 @@
+@inproceedings{babun2019digital,
+  title={A digital forensics framework for smart settings: poster},
+  author={Babun, Leonardo and Sikder, Amit K and Acar, Abbas and Uluagac, A Selcuk},
+  booktitle={Proceedings of the 12th Conference on Security and Privacy in Wireless and Mobile Networks},
+  pages={332--333},
+  year={2019}
+}

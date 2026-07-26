@@ -1,0 +1,7 @@
+@inproceedings{yao2023hiding,
+  title={Hiding in plain sight: An empirical study of web application abuse in malware},
+  author={Yao, Mingxuan and Fuller, Jonathan and Kasturi, Ranjita Pai and Agarwal, Saumya and Sikder, Amit Kumar and Saltaformaggio, Brendan},
+  booktitle={32nd USENIX Security Symposium (USENIX Security 23)},
+  pages={6115--6132},
+  year={2023}
+}

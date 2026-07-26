@@ -1,0 +1,8 @@
+@inproceedings{newaz2022systematic,
+  title={Systematic threat analysis of modern unified healthcare communication systems},
+  author={Newaz, AKM Iqtidar and Aris, Ahmet and Sikder, Amit Kumar and Uluagac, A Selcuk},
+  booktitle={GLOBECOM 2022-2022 IEEE Global Communications Conference},
+  pages={1404--1410},
+  year={2022},
+  organization={IEEE}
+}

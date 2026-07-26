@@ -1,0 +1,10 @@
+@article{sikder2021aegis+,
+  title={Aegis+ a context-aware platform-independent security framework for smart home systems},
+  author={Sikder, Amit Kumar and Babun, Leonardo and Uluagac, A Selcuk},
+  journal={Digital Threats: Research and Practice},
+  volume={2},
+  number={1},
+  pages={1--33},
+  year={2021},
+  publisher={ACM New York, NY, USA}
+}

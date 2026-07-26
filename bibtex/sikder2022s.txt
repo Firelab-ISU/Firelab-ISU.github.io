@@ -1,0 +1,10 @@
+@article{sikder2022s,
+  title={Who’s controlling my device? Multi-user multi-device-aware access control system for shared smart home environment},
+  author={Sikder, Amit Kumar and Babun, Leonardo and Celik, Z Berkay and Aksu, Hidayet and McDaniel, Patrick and Kirda, Engin and Uluagac, A Selcuk},
+  journal={ACM Transactions on Internet of Things},
+  volume={3},
+  number={4},
+  pages={1--39},
+  year={2022},
+  publisher={ACM New York, NY}
+}

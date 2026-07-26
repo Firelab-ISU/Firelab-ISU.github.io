@@ -1,0 +1,6 @@
+@inproceedings{babun2022truth,
+  title={The Truth Shall Set Thee Free: Enabling Practical Forensic Capabilities in Smart Environments},
+  author={Babun, Leonardo and Sikder, Amit Kumar and Abbas, Acar and Uluagac, A. Selcuk},
+  booktitle={The Network and Distributed System Security Symposium (NDSS) 2022},
+  year={2022}
+}

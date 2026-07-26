@@ -1,0 +1,10 @@
+@article{sikder2021survey,
+  title={A survey on sensor-based threats and attacks to smart devices and applications},
+  author={Sikder, Amit Kumar and Petracca, Giuseppe and Aksu, Hidayet and Jaeger, Trent and Uluagac, A Selcuk},
+  journal={IEEE Communications Surveys \& Tutorials},
+  volume={23},
+  number={2},
+  pages={1125--1159},
+  year={2021},
+  publisher={IEEE}
+}

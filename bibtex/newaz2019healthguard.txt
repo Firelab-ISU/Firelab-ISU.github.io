@@ -1,0 +1,8 @@
+@inproceedings{newaz2019healthguard,
+  title={Healthguard: A machine learning-based security framework for smart healthcare systems},
+  author={Newaz, AKM Iqtidar and Sikder, Amit Kumar and Rahman, Mohammad Ashiqur and Uluagac, A Selcuk},
+  booktitle={2019 sixth international conference on social networks analysis, management and security (SNAMS)},
+  pages={389--396},
+  year={2019},
+  organization={IEEE}
+}

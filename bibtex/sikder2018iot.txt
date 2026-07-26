@@ -1,0 +1,8 @@
+@inproceedings{sikder2018iot,
+  title={IoT-enabled smart lighting systems for smart cities},
+  author={Sikder, Amit Kumar and Acar, Abbas and Aksu, Hidayet and Uluagac, A Selcuk and Akkaya, Kemal and Conti, Mauro},
+  booktitle={2018 IEEE 8th Annual Computing and Communication Workshop and Conference (CCWC)},
+  pages={639--645},
+  year={2018},
+  organization={IEEE}
+}

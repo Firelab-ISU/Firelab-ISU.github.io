@@ -1,0 +1,8 @@
+@inproceedings{sikder2014design,
+  title={Design and optimal cost analysis of hybrid power system for Kutubdia island of Bangladesh},
+  author={Sikder, Amit Kumar and Khan, Nishat Anjum and Hoque, Aminul},
+  booktitle={8th International Conference on Electrical and Computer Engineering},
+  pages={729--732},
+  year={2014},
+  organization={IEEE}
+}

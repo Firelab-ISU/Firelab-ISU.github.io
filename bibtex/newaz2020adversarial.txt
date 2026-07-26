@@ -1,0 +1,8 @@
+@inproceedings{newaz2020adversarial,
+  title={Adversarial attacks to machine learning-based smart healthcare systems},
+  author={Newaz, AKM Iqtidar and Haque, Nur Imtiazul and Sikder, Amit Kumar and Rahman, Mohammad Ashiqur and Uluagac, A Selcuk},
+  booktitle={GLOBECOM 2020-2020 IEEE Global Communications Conference},
+  pages={1--6},
+  year={2020},
+  organization={IEEE}
+}

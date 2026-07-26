@@ -1,0 +1,8 @@
+@inproceedings{yao2024pulling,
+  title={Pulling off the mask: Forensic analysis of the deceptive creator wallets behind smart contract fraud},
+  author={Yao, Mingxuan and Zhang, Runze and Xu, Haichuan and Chou, Shih-Huan and Paturi, Varun Chowdhary and Sikder, Amit Kumar and Saltaformaggio, Brendan},
+  booktitle={2024 IEEE Symposium on Security and Privacy (SP)},
+  pages={2236--2254},
+  year={2024},
+  organization={IEEE}
+}

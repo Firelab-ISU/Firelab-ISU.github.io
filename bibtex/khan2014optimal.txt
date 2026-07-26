@@ -1,0 +1,8 @@
+@inproceedings{khan2014optimal,
+  title={Optimal planning of off-grid solar-wind-tidal hybrid energy system for sandwip island of Bangladesh},
+  author={Khan, Nishat Anjum and Sikder, Amit Kumar and Saha, Shammya Shananda},
+  booktitle={2nd International Conference on Green Energy and Technology},
+  pages={41--44},
+  year={2014},
+  organization={IEEE}
+}

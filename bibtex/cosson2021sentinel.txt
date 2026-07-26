@@ -1,0 +1,7 @@
+@inproceedings{cosson2021sentinel,
+  title={Sentinel: A robust intrusion detection system for IoT networks using kernel-level system information},
+  author={Cosson, Adrien and Sikder, Amit Kumar and Babun, Leonardo and Celik, Z Berkay and McDaniel, Patrick and Uluagac, A Selcuk},
+  booktitle={Proceedings of the International Conference on Internet-of-Things Design and Implementation},
+  pages={53--66},
+  year={2021}
+}

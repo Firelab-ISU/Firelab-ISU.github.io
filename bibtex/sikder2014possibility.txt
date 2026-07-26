@@ -1,0 +1,8 @@
+@inproceedings{sikder2014possibility,
+  title={Possibility of a tidal power plant in Sandwip Island of Bangladesh},
+  author={Sikder, Amit Kumar and Rahman, Md Tariqur and Islam, Monirul and Khan, Nishat Anjum and Hoque, Aminul},
+  booktitle={2014 3rd International Conference on the Developments in Renewable Energy Technology (ICDRET)},
+  pages={1--5},
+  year={2014},
+  organization={IEEE}
+}

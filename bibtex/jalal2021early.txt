@@ -1,0 +1,8 @@
+@article{jalal2021early,
+  title={Early diagnosis with alternative approaches: innovation in lung cancer care},
+  author={Jalal, Ahmed Hasnain and Sikder, Amit Kumar and Alam, Fahmida and Samin, Sharraf and Rahman, Sharmin S and Khan, Md Morshed A and Siddiquee, Masudur R},
+  journal={Shanghai Chest},
+  volume={5},
+  year={2021},
+  publisher={AME Publishing Company}
+}

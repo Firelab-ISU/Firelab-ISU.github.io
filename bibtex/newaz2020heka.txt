@@ -1,0 +1,8 @@
+@inproceedings{newaz2020heka,
+  title={Heka: A novel intrusion detection system for attacks to personal medical devices},
+  author={Newaz, AKM Iqtidar and Sikder, Amit Kumar and Babun, Leonardo and Uluagac, A Selcuk},
+  booktitle={2020 IEEE Conference on Communications and Network Security (CNS)},
+  pages={1--9},
+  year={2020},
+  organization={IEEE}
+}

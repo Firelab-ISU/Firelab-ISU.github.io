@@ -1,0 +1,10 @@
+@article{sikder2019context,
+  title={A context-aware framework for detecting sensor-based threats on smart devices},
+  author={Sikder, Amit Kumar and Aksu, Hidayet and Uluagac, A Selcuk},
+  journal={IEEE Transactions on Mobile Computing},
+  volume={19},
+  number={2},
+  pages={245--261},
+  year={2019},
+  publisher={IEEE}
+}

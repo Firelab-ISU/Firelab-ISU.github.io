@@ -1,0 +1,7 @@
+@inproceedings{sikder20176thsense,
+  title={$\{$6thSense$\}$: A context-aware sensor-based attack detector for smart devices},
+  author={Sikder, Amit Kumar and Aksu, Hidayet and Uluagac, A Selcuk},
+  booktitle={26th USENIX Security Symposium (USENIX Security 17)},
+  pages={397--414},
+  year={2017}
+}

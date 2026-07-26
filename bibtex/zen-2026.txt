@@ -1,0 +1,6 @@
+@inproceedings{oygenblik2026achieving,
+  title={Achieving ZEN: Combining Mathematical and Programmatic Deep Learning Model Representations for Attribution and Reuse},
+  author={Oygenblik, David and Dermenzhiev, Dinko and Sofias, Filippos and Yao, Mingxuan and Xu, Haichuan and Zhang, Runze and Park, Jeman and Sikder, Amit and Saltaformaggio, Brendan},
+  booktitle={Proceedings of the 2026 Annual Network and Distributed System Security Symposium (NDSS). San Diego, CA (Feb. 2026)},
+  year={2026}
+}

@@ -1,0 +1,8 @@
+@inproceedings{sikder2014tidal,
+  title={Tidal energy: A solution to energy crisis in coastal area of Bangladesh},
+  author={Sikder, Amit Kumar and Khan, Nishat Anjum and Rahman, Md Tariqur and Islam, Monirul and Hoque, Aminul},
+  booktitle={2014 International Conference on Electrical Engineering and Information \& Communication Technology},
+  pages={1--6},
+  year={2014},
+  organization={IEEE}
+}

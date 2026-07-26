@@ -1,0 +1,7 @@
+@inproceedings{fuller2021c3po,
+  title={C3PO: Large-scale study of covert monitoring of C\&C servers via over-permissioned protocol infiltration},
+  author={Fuller, Jonathan and Kasturi, Ranjita Pai and Sikder, Amit and Xu, Haichuan and Arik, Berat and Verma, Vivek and Asdar, Ehsan and Saltaformaggio, Brendan},
+  booktitle={Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security},
+  pages={3352--3365},
+  year={2021}
+}

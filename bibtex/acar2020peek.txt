@@ -1,0 +1,7 @@
+@inproceedings{acar2020peek,
+  title={Peek-a-boo: I see your smart home activities, even encrypted!},
+  author={Acar, Abbas and Fereidooni, Hossein and Abera, Tigist and Sikder, Amit Kumar and Miettinen, Markus and Aksu, Hidayet and Conti, Mauro and Sadeghi, Ahmad-Reza and Uluagac, Selcuk},
+  booktitle={Proceedings of the 13th ACM Conference on Security and Privacy in Wireless and Mobile Networks},
+  pages={207--218},
+  year={2020}
+}

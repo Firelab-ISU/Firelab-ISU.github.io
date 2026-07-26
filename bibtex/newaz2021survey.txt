@@ -1,0 +1,10 @@
+@article{newaz2021survey,
+  title={A survey on security and privacy issues in modern healthcare systems: Attacks and defenses},
+  author={Newaz, Akm Iqtidar and Sikder, Amit Kumar and Rahman, Mohammad Ashiqur and Uluagac, A Selcuk},
+  journal={ACM Transactions on Computing for Healthcare},
+  volume={2},
+  number={3},
+  pages={1--44},
+  year={2021},
+  publisher={ACM New York, NY, USA}
+}

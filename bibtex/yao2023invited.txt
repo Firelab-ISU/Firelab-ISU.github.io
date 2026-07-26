@@ -1,0 +1,8 @@
+@inproceedings{yao2023invited,
+  title={Invited Tutorial: Counteracting Web Application Abuse in Malware},
+  author={Yao, Mingxuan and Fuller, Jonathan and Sridhar, Ranjita Pai and Agarwal, Saumya and Sikder, Amit K and Saltaformaggio, Brendan},
+  booktitle={2023 IEEE Secure Development Conference (SecDev)},
+  pages={1--2},
+  year={2023},
+  organization={IEEE}
+}

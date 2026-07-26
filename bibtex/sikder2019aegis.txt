@@ -1,0 +1,7 @@
+@inproceedings{sikder2019aegis,
+  title={Aegis: A context-aware security framework for smart home systems},
+  author={Sikder, Amit Kumar and Babun, Leonardo and Aksu, Hidayet and Uluagac, A Selcuk},
+  booktitle={Proceedings of the 35th Annual Computer Security Applications Conference},
+  pages={28--41},
+  year={2019}
+}

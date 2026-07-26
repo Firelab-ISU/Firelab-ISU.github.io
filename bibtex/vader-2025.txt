@@ -1,0 +1,7 @@
+@inproceedings{fuller2025enhanced,
+  title={Enhanced Web Application Security Through Proactive Dead Drop Resolver Remediation},
+  author={Fuller, Jonathan and Yao, Mingxuan and Agarwal, Saumya and Barua, Srimanta and Hirani, Taleb and Sikder, Amit Kumar and Saltaformaggio, Brendan},
+  booktitle={Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security},
+  pages={1364--1378},
+  year={2025}
+}

@@ -1,0 +1,7 @@
+@inproceedings{celik2018sensitive,
+  title={Sensitive information tracking in commodity $\{$IoT$\}$},
+  author={Celik, Z Berkay and Babun, Leonardo and Sikder, Amit Kumar and Aksu, Hidayet and Tan, Gang and McDaniel, Patrick and Uluagac, A Selcuk},
+  booktitle={27th USENIX Security Symposium (USENIX Security 18)},
+  pages={1687--1704},
+  year={2018}
+}

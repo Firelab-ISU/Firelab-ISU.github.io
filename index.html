@@ -1,11 +1,234 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>My Website</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#C8102E" />
+  <meta name="description" content="FIRE Lab at Iowa State University - Future Intelligence, Resilience, and Engineering research lab." />
+  <title>FIRE Lab | Iowa State University</title>
+  <link rel="icon" href="assets/favicon.png" type="image/png" />
+  <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <h1>Welcome to my website</h1>
-  <p>This site is hosted with GitHub Pages.</p>
+  <div class="site-bg" aria-hidden="true">
+    <div class="orb orb-a"></div>
+    <div class="orb orb-b"></div>
+    <div class="orb orb-c"></div>
+  </div>
+  <div class="grid-overlay" aria-hidden="true"></div>
+  <div class="isu-ribbon"><div class="container">Iowa State University · FIRE Lab · Ames, Iowa</div></div>
+
+  <header class="navbar">
+    <div class="container nav-inner">
+      <a class="brand" href="index.html" aria-label="FIRE Lab home">
+        <img class="brand-logo" src="assets/fire-lab-logo-mark.png" alt="FIRE Lab logo" />
+        <span class="brand-text">
+          <span class="brand-title">FIRE Lab</span>
+          <span class="brand-subtitle">Iowa State University</span>
+        </span>
+      </a>
+      <nav class="nav-links" aria-label="Main navigation">
+        <a href="index.html">Home</a>
+        <a href="people.html">People</a>
+        <a href="publications.html">Publications</a>
+        <a href="news.html">News</a>
+		<a href="contact.html">Contact</a>
+      </nav>
+      <button class="nav-toggle" aria-label="Open navigation" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container hero-grid">
+        <div class="reveal">
+          <span class="eyebrow">Iowa State University · Forensic Innovations in Reverse Engineering Lab</span>
+          <h1>Welcome to FIRE Lab</h1>
+          <p class="lead">FIRE Lab stands for Forensics Innovations in Reverse Engineering Lab. In FIRE Lab, we conduct research at the intersection of system security, program analysis, and artificial intelligence. Our work is driven by a central question: how can we build intelligent systems that remain secure, trustworthy, and dependable when deployed in the real world?</p>
+          <div class="hero-actions">
+            <a class="btn btn-primary" href="publications.html">Explore Publications</a>
+            <a class="btn btn-ghost" href="people.html">Meet the Team</a>
+          </div>
+        </div>
+        <div class="hero-card reveal">
+          <div class="hero-visual">
+            <img src="assets/fire-lab-logo.png" alt="FIRE Lab logo" class="hero-logo-img" />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section research-b2-section">
+  <div class="container">
+    <div class="research-b2-header reveal">
+      <h2 class="section-title">Research Areas</h2>
+    </div>
+
+    <div class="research-b2-grid">
+
+      <article class="research-b2-card reveal">
+        <div class="research-b2-icon">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M12 2L4.5 5v6.2c0 4.9 3.1 9.3 7.5 10.8 4.4-1.5 7.5-5.9 7.5-10.8V5L12 2z"/>
+            <path d="M9 12l2 2 4-5"/>
+          </svg>
+        </div>
+
+        <div>
+          <h3>System Security</h3>
+          <p>
+            Identifying hidden attack surfaces in real-world systems and building robust defenses against emerging threats. 
+          </p>
+        </div>
+      </article>
+
+      <article class="research-b2-card reveal">
+        <div class="research-b2-icon">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <circle cx="11" cy="11" r="6"/>
+            <path d="M16 16l5 5"/>
+            <path d="M8.5 10h5"/>
+            <path d="M11 7.5v5"/>
+          </svg>
+        </div>
+
+        <div>
+          <h3>AI Forensics</h3>
+          <p>
+            Forensic analysis of AI-enabled systems, model behavior, adversarial manipulation, and root-cause analysis of failures.
+          </p>
+        </div>
+      </article>
+
+      <article class="research-b2-card reveal">
+        <div class="research-b2-icon">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M8 4L3 12l5 8"/>
+            <path d="M16 4l5 8-5 8"/>
+            <path d="M13 5l-2 14"/>
+          </svg>
+        </div>
+
+        <div>
+          <h3>Program Analysis</h3>
+          <p>
+            Automated reasoning for understanding and securing complex software via binary and symbolic analysis.
+          </p>
+        </div>
+      </article>
+
+      <article class="research-b2-card reveal">
+        <div class="research-b2-icon">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <rect x="7" y="8" width="10" height="8" rx="2"/>
+            <path d="M12 4v4"/>
+            <path d="M12 16v4"/>
+            <path d="M4 12h3"/>
+            <path d="M17 12h3"/>
+            <path d="M9.5 11h.01"/>
+            <path d="M14.5 11h.01"/>
+          </svg>
+        </div>
+
+        <div>
+          <h3>IoT and CPS Security</h3>
+          <p>
+            Security and privacy of Internet-of-Things devices, smart environments, medical devices, and cyber-physical systems.
+          </p>
+        </div>
+      </article>
+
+      <article class="research-b2-card reveal">
+        <div class="research-b2-icon">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M5 21L9 3l4 18"/>
+            <path d="M19 21L15 3l-4 18"/>
+            <path d="M7 12h10"/>
+            <path d="M8 8h8"/>
+            <path d="M6 16h12"/>
+          </svg>
+        </div>
+
+        <div>
+          <h3>Secure Critical Infrastructure</h3>
+          <p>
+            Resilience and security for industrial control systems,
+            healthcare infrastructure, and mission-critical environments.
+          </p>
+        </div>
+      </article>
+
+      <article class="research-b2-card reveal">
+        <div class="research-b2-icon">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <circle cx="12" cy="12" r="2"/>
+            <ellipse cx="12" cy="12" rx="9" ry="4"/>
+            <ellipse cx="12" cy="12" rx="9" ry="4" transform="rotate(60 12 12)"/>
+            <ellipse cx="12" cy="12" rx="9" ry="4" transform="rotate(120 12 12)"/>
+          </svg>
+        </div>
+
+        <div>
+          <h3>Quantum Computing</h3>
+          <p>
+            Security of quantum supply chain, quantum programming stacks, and quantum computing infrastructure.
+          </p>
+        </div>
+      </article>
+
+    </div>
+  </div>
+</section>
+
+
+    <section class="section">
+      <div class="container">
+        <div class="section-header reveal">
+          <div>
+            <div class="section-kicker">Featured Work</div>
+            <h2 class="section-title">Recent research highlights.</h2>
+          </div>
+          <a class="btn btn-ghost" href="publications.html">View All</a>
+        </div>
+        <div class="publication-list" id="featured-publications">
+			<article class="pub-card reveal">
+				<div class="year-badge">...</div>
+				<div>
+					<div class="pub-meta"><span>Loading publications</span></div>
+					<h3>Recent research highlights will appear here.</h3>
+					<p>Loading the latest publications from publications.html.</p>
+				</div>
+			</article>
+		</div>
+      </div>
+    </section>
+
+    <section class="container">
+      <div class="cta reveal">
+        <div>
+          <h2>Interested in joining FIRE Lab?</h2>
+          <p>We welcome motivated students and collaborators interested in System security, cyber-physical systems, AI security, and trustworthy intelligent infrastructure.</p>
+        </div>
+        <a class="btn btn-primary" href="contact.html">Contact Us</a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-grid">
+      <div>
+        <a class="brand" href="index.html">
+          <img class="brand-logo" src="assets/fire-lab-logo-mark.png" alt="FIRE Lab logo" />
+          <span class="brand-text"><span class="brand-title">FIRE Lab</span><span class="brand-subtitle">Iowa State University</span></span>
+        </a>
+        <p>Forensics Innovations in Reverse Engineering Lab @ Iowa State University. <br>
+		B0026, Atanasoff Hall, Iowa State University, Ames, Iowa</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
 </body>
 </html>

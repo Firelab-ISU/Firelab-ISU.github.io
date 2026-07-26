@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#C8102E" />
+  <meta
+    name="description"
+    content="Contact FIRE Lab at Iowa State University."
+  />
+
+  <title>Contact | FIRE Lab at Iowa State University</title>
+
+  <link rel="icon" href="assets/favicon.png" type="image/png" />
+  <link rel="stylesheet" href="styles.css" />
+
+  <style>
+    /* Contact-page hero */
+
+    .contact-hero {
+      padding: 68px 0 46px;
+    }
+
+    .contact-hero-grid {
+      display: grid;
+      grid-template-columns: minmax(0, 1.05fr) minmax(330px, 0.8fr);
+      align-items: center;
+      gap: 56px;
+    }
+
+    .contact-hero-copy {
+      max-width: 760px;
+    }
+
+    .contact-hero-copy h1 {
+      margin-bottom: 24px;
+    }
+
+    .contact-hero-visual {
+      position: relative;
+      min-height: 420px;
+      display: grid;
+      place-items: center;
+      isolation: isolate;
+    }
+
+    .contact-hero-visual::before {
+      content: "";
+      position: absolute;
+      width: 390px;
+      height: 390px;
+      border-radius: 50%;
+      background:
+        radial-gradient(
+          circle,
+          rgba(241, 190, 72, 0.25) 0%,
+          rgba(200, 16, 46, 0.08) 48%,
+          transparent 72%
+        );
+      z-index: -1;
+    }
+
+    .contact-hero-logo {
+      display: block;
+      width: min(450px, 100%);
+      height: auto;
+      object-fit: contain;
+      filter: drop-shadow(0 25px 45px rgba(61, 22, 32, 0.18));
+      animation: contactLogoFloat 5.5s ease-in-out infinite;
+    }
+
+    @keyframes contactLogoFloat {
+      0%,
+      100% {
+        transform: translateY(0);
+      }
+
+      50% {
+        transform: translateY(-10px);
+      }
+    }
+
+    .contact-connect-section {
+      padding-top: 24px;
+    }
+
+    .contact-connect-section .section-header {
+      margin-bottom: 28px;
+    }
+
+    @media (max-width: 900px) {
+      .contact-hero-grid {
+        grid-template-columns: 1fr;
+        gap: 28px;
+      }
+
+      .contact-hero-visual {
+        min-height: 320px;
+      }
+
+      .contact-hero-logo {
+        width: min(360px, 82%);
+      }
+    }
+
+    @media (max-width: 600px) {
+      .contact-hero {
+        padding-top: 46px;
+      }
+
+      .contact-hero-visual {
+        min-height: 260px;
+      }
+
+      .contact-hero-logo {
+        width: min(300px, 88%);
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .contact-hero-logo {
+        animation: none;
+      }
+    }
+  </style>
+</head>
+
+<body class="contact-page">
+  <div class="site-bg" aria-hidden="true">
+    <div class="orb orb-a"></div>
+    <div class="orb orb-b"></div>
+    <div class="orb orb-c"></div>
+  </div>
+
+  <div class="grid-overlay" aria-hidden="true"></div>
+
+  <div class="isu-ribbon">
+    <div class="container">
+      Iowa State University · FIRE Lab · Ames, Iowa
+    </div>
+  </div>
+
+  <header class="navbar">
+    <div class="container nav-inner">
+      <a class="brand" href="index.html" aria-label="FIRE Lab home">
+        <img
+          class="brand-logo"
+          src="assets/fire-lab-logo-mark.png"
+          alt="FIRE Lab logo"
+        />
+
+        <span class="brand-text">
+          <span class="brand-title">FIRE Lab</span>
+          <span class="brand-subtitle">Iowa State University</span>
+        </span>
+      </a>
+
+      <nav class="nav-links" aria-label="Main navigation">
+        <a href="index.html">Home</a>
+        <a href="people.html">People</a>
+        <a href="publications.html">Publications</a>
+        <a href="news.html">News</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+
+      <button
+        class="nav-toggle"
+        aria-label="Open navigation"
+        aria-expanded="false"
+      >
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </header>
+
+  <main>
+    <section class="page-hero contact-hero">
+      <div class="container contact-hero-grid">
+        <div class="contact-hero-copy reveal">
+          <span class="eyebrow">Contact · FIRE Lab</span>
+
+          <h1>Connect with<br />FIRE Lab.</h1>
+
+          <p class="lead">
+            We welcome conversations with prospective students, collaborators,
+            industry partners, and researchers interested in AI security,
+            cyber-physical systems security, digital forensics, and resilient
+            intelligent infrastructure.
+          </p>
+        </div>
+
+        <div class="contact-hero-visual reveal">
+          <img
+            class="contact-hero-logo"
+            src="assets/fire-lab-logo-contact.png"
+            alt="FIRE Lab cardinal holding an email envelope"
+          />
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-tight contact-connect-section">
+      <div class="container">
+        <div class="section-header reveal">
+          <div>
+            <div class="section-kicker">Get Involved</div>
+            <h2 class="section-title">Ways to connect.</h2>
+          </div>
+        </div>
+
+        <div class="card-grid contact-card-grid">
+  <article class="card reveal">
+    <div class="icon-badge">01</div>
+    <h3>Prospective Students</h3>
+    <p>
+      Students interested in AI security, cyber-physical systems, digital
+      forensics, malware analysis, or secure intelligent systems are encouraged
+      to reach out with their CV and research interests.
+    </p>
+  </article>
+
+  <article class="card reveal">
+    <div class="icon-badge">02</div>
+    <h3>Research Collaboration</h3>
+    <p>
+      We welcome opportunities to collaborate with academic and industry researchers on real-world security challenges across AI, systems, IoT, and critical infrastructure.
+    </p>
+  </article>
+</div>
+
+        <div class="cta reveal">
+          <div>
+            <h2>Interested in joining or collaborating?</h2>
+
+            <p>
+              Send us a short note about your background, interests, and the
+              type of collaboration or opportunity you are looking for.
+            </p>
+          </div>
+
+          <a
+            class="btn btn-primary"
+            href="mailto:aksikder@iastate.edu?subject=FIRE%20Lab%20Inquiry"
+          >
+            Contact Us
+          </a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-grid">
+      <div>
+        <a class="brand" href="index.html">
+          <img
+            class="brand-logo"
+            src="assets/fire-lab-logo-mark.png"
+            alt="FIRE Lab logo"
+          />
+
+          <span class="brand-text">
+            <span class="brand-title">FIRE Lab</span>
+            <span class="brand-subtitle">Iowa State University</span>
+          </span>
+        </a>
+
+        <p>
+          Forensics Innovations in Reverse Engineering Lab @ Iowa State
+          University.<br />
+          B0026, Atanasoff Hall, Iowa State University, Ames, Iowa
+        </p>
+      </div>
+
+      
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

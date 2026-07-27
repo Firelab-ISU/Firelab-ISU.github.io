@@ -607,6 +607,8 @@ h1, h2, h3, p {
 .person-image img {
   width: 72%;
   transform: translateY(8px);
+  object-fit: cover;
+  height: 86%;
 }
 
 .person-body {
